@@ -31,6 +31,9 @@ Send your commits to the primary repository.
 
 Grab other commits from the primary repository.
 Download and Installation:
+
+
+![screenshot](https://user-images.githubusercontent.com/91731724/158060490-57df004e-2fd1-43b8-8a65-f85303b1a147.png)
 Download Git from https://git-scm.com/downloads
 Follow setup steps from https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
